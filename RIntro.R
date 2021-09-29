@@ -47,3 +47,5 @@ x
 mean(x)
 sd(x)
 hist(x)
+
+#introduction R programming
